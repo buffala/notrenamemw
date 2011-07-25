@@ -1,0 +1,18 @@
+[05-May-2011 23:06:42] PHP Warning:  require(incluces/header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/skwidge1/public_html/jqtouch/index.php on line 4
+[05-May-2011 23:06:42] PHP Warning:  require(incluces/header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/skwidge1/public_html/jqtouch/index.php on line 4
+[05-May-2011 23:06:42] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'incluces/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skwidge1/public_html/jqtouch/index.php on line 4
+[05-May-2011 23:11:41] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 20
+[05-May-2011 23:12:30] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 8
+[05-May-2011 23:13:16] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 8
+[05-May-2011 23:16:11] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 7
+[05-May-2011 23:16:39] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 7
+[05-May-2011 23:18:15] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/skwidge1/public_html/jqtouch/players.php on line 7
+[05-May-2011 23:22:28] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home/skwidge1/public_html/jqtouch/players.php on line 7
+[05-May-2011 23:22:54] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home/skwidge1/public_html/jqtouch/players.php on line 7
+[05-May-2011 23:25:13] PHP Parse error:  syntax error, unexpected '<' in /home/skwidge1/public_html/jqtouch/players.php on line 10
+[05-May-2011 23:45:24] PHP Parse error:  syntax error, unexpected '<' in /home/skwidge1/public_html/jqtouch/players.php on line 10
+[05-May-2011 23:48:53] PHP Parse error:  syntax error, unexpected '<' in /home/skwidge1/public_html/jqtouch/players.php on line 10
+[06-May-2011 00:34:56] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/skwidge1/public_html/jqtouch/index.php on line 28
+[06-May-2011 00:34:56] PHP Warning:  require(player_detailsphp) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/skwidge1/public_html/jqtouch/index.php on line 28
+[06-May-2011 00:34:56] PHP Warning:  require(player_detailsphp) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/skwidge1/public_html/jqtouch/index.php on line 28
+[06-May-2011 00:34:56] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'player_detailsphp' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/skwidge1/public_html/jqtouch/index.php on line 28

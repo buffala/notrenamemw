@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home_content {
+	text-align:left;
+	padding: 10px;
+}
+
+.fLeft {
+	float:left;
+}
+
+.cntr {
+	text-align:center;	
+}
+
+.lmm {
+	padding: 40px 0 0 0;
+}
+
+.player_img {
+	float:left	
+}
+
+.player_link {
+	margin-left: 50px;
+	padding-left: 50px;
+}
+
+#utube {
+	text-align:center;	
+}
+
+#home_page {
+	text-align:center;
+}
